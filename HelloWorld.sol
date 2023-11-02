@@ -1,3 +1,17 @@
+```
+Use assembly keyword for writing the smart contract in Yul.
+```
+```shell
+contract C {
+    function f() public {
+        assembly {
+            // code example
+        }
+    }
+}
+```
+
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 contract helloWorld{
