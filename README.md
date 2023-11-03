@@ -10,3 +10,4 @@ This repository consist of some Solidity Assembly (YUL) Opcodes examples for opt
 - [ComparisonOperations](https://github.com/jitendragangwar123/Solidity-Assembly-YUL-Opcodes/blob/main/Comparison_Operations.sol)
 - [BitwiseOperations](https://github.com/jitendragangwar123/Solidity-Assembly-YUL-Opcodes/blob/main/BitwiseOperations.sol)
 - [Functions](https://github.com/jitendragangwar123/Solidity-Assembly-YUL-Opcodes/blob/main/Functions.sol)
+- [StorageSlotsAndVariables](https://github.com/jitendragangwar123/Solidity-Assembly-YUL-Opcodes/blob/main/StorageSlotsAndVariables.sol)
